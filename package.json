@@ -68,6 +68,8 @@
 		"@iconify-json/bi": "^1.1.21",
 		"@playwright/browser-chromium": "^1.43.1",
 		"@resvg/resvg-js": "^2.6.2",
+		"@sveltejs/adapter-vercel": "^5.4.4",
+		"@sveltejs/vite-plugin-svelte": "^3.1.2",
 		"autoprefixer": "^10.4.14",
 		"aws-sigv4-fetch": "^4.0.1",
 		"aws4": "^1.13.0",
